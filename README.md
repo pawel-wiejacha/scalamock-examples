@@ -1,4 +1,4 @@
-[ScalaMock QuickStart example](http://scalamock.org/quick-start/)
+[ScalaMock Quick Start example](http://scalamock.org/quick-start/)
 
 ```bash
 $ sbt
